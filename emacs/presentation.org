@@ -1,0 +1,57 @@
+#+STARTUP: overview
+#+TITLE: Introduction to Emacs
+#+AUTHOR: Vinodh MJ Human
+#+EMAIL:
+#+OPTIONS: toc:nil num:nil
+* What is emacs? [2/6]
+1. [X] Simple text editor
+2. [X] Full blown IDE with free packages 
+3. [ ] Coding, Screenplay, Research thesis etc. 
+4. [ ] Understands elisp - write your own packages
+5. [ ] Fully customizable on all platforms
+6. [ ] Expo rt to PDF, Word, PPT etc. and LaTeX
+* Freedom
+file:files/blackpearl-really-is-freedom-edit.jpg
+* Configuration
+** Themes
+** Repositories
+1. Melpa
+2. GNU
+** Temporary/Permanent configurations
+** paradox
+** Swiper, counsel
+** shell
+** multiple edits
+change 1
+change 2
+* Coding
+** Essentials
+*** narrow/expand
+hello
+*** hungry delete
+*** hydra
+** magit
+** C++ demo
+*** Yasnippet
+*** debugging
+* Org mode
+** Basic operations
+*** new heading level
+*** move up/down
+*** show all, overview
+*** TODO Collect feedback from 
+DEADLINE: <2020-10-26 Mon>
+*** View agenda
+**** Link it to your calendar
+**** Sync it on your mobile devices
+*** Write blog
+*** Export
+* Getting started
+** Ctrl h t
+* Further reference
+1. https://cestlaz.github.io/stories/emacs/
+2. https://www.reddit.com/r/emacs/
+3. http://pragmaticemacs.com/
+4. https://irreal.org/blog/?tag=emacs
+5. https://sachachua.com/blog/
+6. https://github.com/vinodhmj     
